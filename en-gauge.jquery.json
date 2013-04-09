@@ -1,0 +1,29 @@
+{
+  "name": "en-gauge",
+  "title": "En Gauge",
+  "description": "A lightweight progress gauge using a combination of Canvas and jQuery.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/damian/en-gauge",
+  "author": {
+    "name": "Damian Nicholson",
+    "email": "damian.nicholson21@gmail.com",
+    "url": "http://damiannicholson.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/damian/en-gauge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/damian/en-gauge/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/damian/en-gauge/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.9.1"
+  },
+  "keywords": []
+}
